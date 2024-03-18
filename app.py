@@ -5,7 +5,7 @@ from aiogram.types import Message
 
 from random import randint
 
-bot_token = "6776492979:AAH1xeTw5TN_nMy6PgvvxY2romGyVTGXxpM"
+
 bot = Bot(token=bot_token)
 dp = Dispatcher()
 
