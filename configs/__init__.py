@@ -1,0 +1,1 @@
+from . import strt_config
